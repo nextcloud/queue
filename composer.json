@@ -1,0 +1,9 @@
+{
+    "require": {
+        "illuminate/cache": "^5.4",
+        "illuminate/database": "^5.4",
+        "illuminate/redis": "^5.4",
+        "illuminate/queue": "^5.4",
+        "illuminate/events": "^5.4"
+    }
+}
